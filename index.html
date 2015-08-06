@@ -1,0 +1,90 @@
+<!DOCTYPE html >
+
+<html>
+
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://www.promisejs.org/polyfills/promise-done-7.0.1.min.js"></script>
+    <script src="js/task.js"></script>
+    <link rel="stylesheet" href="css/task.css">
+
+</head>
+
+<body id="body" onload="initialize()">
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div id="search">
+                    <div class="input-group col-md-12 col-sm-12 col-xs-12">
+                        <input type="text" class="form-control input-lg" placeholder="Search" id="Searchbox" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="container"><button type="button" class="btn btn-primary col-md-12 col-sm-12 col-xs-12" style="display:none" id="add" data-toggle="modal" data-target="#addModal">Add a new employee</button></div>
+    
+    <div class="container" style="display:none">
+        <div class="well well-lg" id="a-well" data-toggle="modal" data-target="#detailsModal">
+            <img id="avatar" src="images/avatar.png">
+             <h2 id="name">name</h2>
+        </div>
+    </div>
+    <div class="container" id="content">
+    </div>
+    <div class="modal fade col-md-12 col-sm-12 col-xs-12" id="detailsModal">
+        <div class="modal-dialog">
+            <div class="modal-content">  
+                <div class="modal-body">
+                    <img id="modal-avatar" src="images/avatar.png">
+                    <h1 ><small id="modal-name" class="text-primary">Name</small></h1>
+                    <h2><small id="modal-designation" class="text-muted">designation</small></h2>      
+                </div>  
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal fade col-md-12 col-sm-12 col-xs-12" id="addModal">
+        <div class="modal-dialog">
+            <div class="modal-content">  
+                <div class="modal-header">
+                    <h3>ADD NEW EMPLOYEE</h3>
+                </div>
+                <div class="modal-body">
+                    <img id="employee-avatar" src="images/avatar.png">
+                    <hr />
+                    <form action="" class="form-horizontal">
+                        <div class="control-group">
+                            <label for="employee-name" class="control-label">Name</label>
+                            <div class="controls"><input type="text" id="employee_name"/></div>
+                        </div>
+                        <hr />
+                         <div class="control-group">
+                            <label for="employee-designation" class="control-label">Designation</label>
+                            <div class="controls"><input type="text" id="employee_designation"/></div>
+                        </div>
+                        <hr />
+                        <div class="control-group">
+                            <div class="controls"><button type="submit" class="btn btn-primary" onclick="add()" data-dismiss="modal">Submit</button></div>
+                        </div>
+                    </form> 
+                </div>  
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

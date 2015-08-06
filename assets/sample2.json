@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Sanchez Hopkins",
+    "designation": "Founder and CEO",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/james_king.jpg"
+  },
+  {
+    "name": "Jody Vargas",
+    "designation": "BICOL",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Olive Pate",
+    "designation": "METROZ",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Genevieve Sheppard",
+    "designation": "COMTRAK",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Mcconnell Benton",
+    "designation": "COMTEXT",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Inez Jones",
+    "designation": "BLUEGRAIN",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Grimes Sandoval",
+    "designation": "WAAB",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Jami Preston",
+    "designation": "HAWKSTER",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Good Mcmahon",
+    "designation": "MAGNEMO",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Janie Langley",
+    "designation": "COMVOY",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Georgia Landry",
+    "designation": "BYTREX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Liz Mckenzie",
+    "designation": "MAGMINA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Moreno Thornton",
+    "designation": "COLUMELLA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Bennett Ware",
+    "designation": "CORPULSE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Evelyn Stephenson",
+    "designation": "ROBOID",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Levy Mercado",
+    "designation": "GEOFORMA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Lilia Paul",
+    "designation": "PHUEL",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Margarita Morin",
+    "designation": "ZILIDIUM",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Lelia Myers",
+    "designation": "ENDIPINE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Head Curtis",
+    "designation": "UTARIAN",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Gaines Byrd",
+    "designation": "TERSANKI",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Goodwin Reilly",
+    "designation": "RECOGNIA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Janine Cole",
+    "designation": "NUTRALAB",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Vega Gallagher",
+    "designation": "TROLLERY",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Morgan Summers",
+    "designation": "NORALI",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Logan Kidd",
+    "designation": "ZEPITOPE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Katy Hoover",
+    "designation": "ASSURITY",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Kirby Schroeder",
+    "designation": "BRAINQUIL",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Anastasia Fernandez",
+    "designation": "MONDICIL",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Bertie Garcia",
+    "designation": "COMTOURS",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Wilder Mills",
+    "designation": "OMNIGOG",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Koch Marshall",
+    "designation": "FUTURITY",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Adrienne Hendricks",
+    "designation": "PHARMEX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Marietta Petersen",
+    "designation": "VANTAGE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Louisa Howard",
+    "designation": "IMANT",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Russo Fields",
+    "designation": "SUPPORTAL",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Lloyd Barlow",
+    "designation": "SQUISH",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Haley Odom",
+    "designation": "ENTROPIX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Casey Wyatt",
+    "designation": "MAROPTIC",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Blackburn Nicholson",
+    "designation": "ELITA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Ginger Rush",
+    "designation": "EXOTERIC",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Pitts Mccray",
+    "designation": "CUJO",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Holden Logan",
+    "designation": "BIOTICA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Dolores Hewitt",
+    "designation": "SPRINGBEE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Jeanne Rodriquez",
+    "designation": "HIVEDOM",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Allie Finch",
+    "designation": "ACCUPHARM",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Michael Gray",
+    "designation": "EXTRAWEAR",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Fuller Sutton",
+    "designation": "COMTRAIL",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Dorothea Kelly",
+    "designation": "BRAINCLIP",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Vance Thomas",
+    "designation": "GEEKKO",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Michele Flowers",
+    "designation": "ESCENTA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Snider Brewer",
+    "designation": "ENDIPIN",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Juliette Collier",
+    "designation": "KENEGY",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Baxter Everett",
+    "designation": "YURTURE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Rogers Long",
+    "designation": "ZIDOX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Lucas Norman",
+    "designation": "ANDRYX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Rachael Olsen",
+    "designation": "ISIS",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Elba Ray",
+    "designation": "STUCCO",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Marilyn Howe",
+    "designation": "ORBALIX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Ora Boyd",
+    "designation": "BOLAX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Berta Barker",
+    "designation": "VIRXO",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Smith Leach",
+    "designation": "ROCKLOGIC",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Matilda Vinson",
+    "designation": "INSOURCE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Gould Merritt",
+    "designation": "CONCILITY",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Blanca Snow",
+    "designation": "SYNKGEN",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Lowe Brennan",
+    "designation": "OLUCORE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Green William",
+    "designation": "PULZE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Allison Irwin",
+    "designation": "ZANILLA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Juanita Head",
+    "designation": "WAZZU",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Carmen Mccarthy",
+    "designation": "GONKLE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Meyers Johns",
+    "designation": "XPLOR",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Jensen Pugh",
+    "designation": "GOKO",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Felicia Ratliff",
+    "designation": "TURNABOUT",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Susie Melton",
+    "designation": "CORECOM",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Fern Carr",
+    "designation": "VOIPA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Angie Stuart",
+    "designation": "ZILLIDIUM",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Brewer Mejia",
+    "designation": "DANJA",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Laurel Ayala",
+    "designation": "LUNCHPAD",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Vanessa Barnett",
+    "designation": "DEMINIMUM",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Helga Adkins",
+    "designation": "SKYPLEX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Sabrina Rose",
+    "designation": "QUAREX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Callie Lowery",
+    "designation": "COMVERGES",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Rosetta Clemons",
+    "designation": "VINCH",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Day Obrien",
+    "designation": "DECRATEX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Latisha Carrillo",
+    "designation": "PHEAST",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Sonya Garner",
+    "designation": "NAMEGEN",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Shaffer Hooper",
+    "designation": "MOREGANIC",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Lula Knapp",
+    "designation": "WARETEL",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Gillespie Blair",
+    "designation": "KIGGLE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Lorrie Hurley",
+    "designation": "OLYMPIX",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Davis Steele",
+    "designation": "QUONATA",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/james_king.jpg"
+  },
+  {
+    "name": "Avis Dalton",
+    "designation": "FARMAGE",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Mcknight Hendrix",
+    "designation": "COASH",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Graciela Schultz",
+    "designation": "UNIWORLD",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Young Romero",
+    "designation": "XTH",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Odom Burks",
+    "designation": "BESTO",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Beck Mann",
+    "designation": "COMCUR",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Gomez Hayes",
+    "designation": "SOLGAN",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Beatrice Shepherd",
+    "designation": "DYMI",
+    "avatar": "http://placehold.it/32x32"
+  },
+  {
+    "name": "Warner Carey",
+    "designation": "ISONUS",
+    "avatar": "http://placehold.it/32x32"
+  }
+]
